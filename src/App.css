@@ -1,0 +1,75 @@
+.App {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  color: #f2583e;
+}
+
+.myForm:hover {
+  opacity: 1.0;
+}
+
+.myList:hover {
+  opacity: 1.0;
+}
+
+.myForm{
+  width: 100%;
+  background-color: #313030;
+  border-radius: 5px;
+  padding: 20px;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.formField{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  stop-opacity: 1;
+}
+
+.myButton{
+  width: 75%;
+  background-color: #716f6f;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 0px;
+  cursor: pointer;
+}
+
+.myList{
+  list-style: none;
+  background-color: #313030;
+  color: #f2583e;
+  /*text-decoration-color: #f2583e !important;*/
+  padding: 5px;
+  opacity: 0.9;
+  font-size: 17px;
+  text-align: center;
+}
+
+.myListButton{
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 0px;
+  border: 2px solid #716f6f;
+  margin: 3px 5px;
+  background-color: #716f6f;
+  font-size: 15px;
+}
+
+html { 
+  background: url(menu3.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
