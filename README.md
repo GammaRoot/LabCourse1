@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Important: nodule_modules folder cant be uploaded so you need to create it using commands, will update how later
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
